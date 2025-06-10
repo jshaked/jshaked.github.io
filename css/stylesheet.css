@@ -1,0 +1,45 @@
+ul {
+  list-style-type: none;
+  margin: 3px;
+  padding: 0;
+  width: 90px;
+  background-color: white;
+}
+
+li a {
+  display: block;
+  color: black;
+  border: 1px solid black;
+  padding: 3px 20px;
+  text-decoration: none;
+  margin: 3px 0;
+  height: 15px;
+  width: 70px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+#i01 {
+  opacity:0.2;
+}
+
+#i02 {
+  padding: 0 19px;
+}
+
+#li01 {
+  width: 100%;
+}
+
+.border {  border: 3px solid black; } 
+
+body {
+  width: 550px;
+  word-wrap: break-word;
+}
