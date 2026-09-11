@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>
+    {% if page.title %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <link rel="stylesheet" href="{{ '/stylesheets/style.css' | relative_url }}">
+  {% feed_meta %}
+</head>
+<body>
+  <nav class="navbar">
+    <ul class="navbar__inner">
+      <li class="navbar__brand"><a class="navbar__text" href="{{ '/' | relative_url }}">{{ site.title }}</a></li>
+      <li class="navbar__item"><a class="navbar__text" href="{{ '/' | relative_url }}">Home</a></li>
+      <li class="navbar__item"><a class="navbar__text" href="{{ '/about/' | relative_url }}">About</a></li>
+    </ul>
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    <p>Subscribe via <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
+  </footer>
+</body>
+</html>
