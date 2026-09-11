@@ -60,6 +60,12 @@ main {
   min-height: 25vh;
 }
 
+.home {
+  // Pulls the post list up into the navbar's own bottom padding, so the
+  // home page reads tighter without touching navbar spacing used elsewhere.
+  margin-top: -2 * $spacing-unit;
+}
+
 .page-content {
   padding: $spacing-unit 0;
 }

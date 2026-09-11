@@ -1,9 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: "page"
+title: "About"
+permalink: "/about/"
 ---
+<img src="/assets/images/icon.png" alt="Profile picture" class="profile-picture">
 
-Write an awesome description for your site here. This page uses the `page` layout, so it shares the same look as the rest of the site.
+Currently, I am an investor at [Sentinel Global](https://www.sentinelglobal.xyz/) -- a multi-stage, enterprise-focused venture fund -- where I invest across  seed to series C companies.
 
-You can find out more about basic Jekyll usage at [jekyllrb.com](https://jekyllrb.com/).
+My core passion is modernizing mission-critical and misunderstood financial market infrastructure and applications.
