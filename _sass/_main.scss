@@ -15,14 +15,14 @@
   @extend %container--centered;
 
   flex: 1;
-  align-items: center;
+  align-items: baseline;
   flex-direction: row;
   display: flex;
 }
 
 .navbar__brand {
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 1.5em;
   padding: $navbar-item-padding $navbar-item-padding $navbar-item-padding 0;
 }
 
@@ -106,6 +106,7 @@ hr {
 
 footer {
   @extend %container--centered;
+  margin-top: $spacing-unit;
   border-top: 1px solid var(--hr-color);
   padding-top: $spacing-unit;
   padding-bottom: 6vh;
