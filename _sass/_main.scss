@@ -57,7 +57,7 @@
 main {
   @extend %container--centered;
   padding-top: 0;
-  min-height: 50vh;
+  min-height: 25vh;
 }
 
 .page-content {
@@ -106,7 +106,8 @@ hr {
 
 footer {
   @extend %container--centered;
-  padding-top: $navbar-height * 1.5;
+  border-top: 1px solid var(--hr-color);
+  padding-top: $spacing-unit;
   padding-bottom: 6vh;
   font-size: $small-font-size;
   color: var(--text-color-secondary);
