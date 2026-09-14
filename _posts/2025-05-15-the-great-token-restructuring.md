@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "The Great Token Restructuring"
-cateogories: "writing"
+categories: "writing"
 ---
 ## **Intro**
 
