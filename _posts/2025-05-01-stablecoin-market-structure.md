@@ -3,7 +3,7 @@ layout: "post"
 title: "Stablecoin Market Structure"
 categories: "writing"
 ---
-## **Intro**
+## Intro
 
 Money has always been a social invention, shaped more by collective human agreement than by regulatory or religious decree. From ancient seashells to cigarettes in prisons, “money” is whatever a community is willing to accept in exchange for goods and services. Because money derives its value from collective human agreement — and people’s beliefs, preferences, and behaviors evolve — money and payments too must adapt and transform to reflect shifting societal dynamics and technological innovations.
 
@@ -11,7 +11,7 @@ Although real-time payments (”RTP”) networks such as FedNow in the U.S., UPI
 
 By connecting all assets to an instant, open, global payment network, tokenization holds the potential to open up access to previously gate kept payment infrastructure and offers a generational opportunity for forward-thinking asset managers to disintermediate banks’ privileged access to official payment networks.
 
-## **Money Today**
+## Money Today
 
 Ultimately, people want money that is interest-bearing, safe, and sound. While bank deposits offer safety and soundness, protected by institutional guarantees such as deposit insurance that insure deposits up to $250k, they offer little to no yield. As of April 2025, the national average interest rate for checking accounts in the U.S. was ~0.07%. Comparatively, the federal funds rate currently sits at ~4.3%. With current inflation rates at ~2.4%, bank depositors earn a negative real return on their balances. While money market funds offer interest in-line with the federal funds rate, they are not fit for payments because they are uninsured and lack connectivity to a real-time payment system.
 
@@ -23,7 +23,7 @@ Banks in the U.S. have a monopoly on payments because they are the only institut
 
 While banks in the U.S. maintain a monopoly over access to America’s core payments infrastructure, blockchains represent a radically different model — an instant, open, global payments infrastructure accessible by anyone with an internet connection. Where blockchains excel as an instant, open, and global payment rail, they lack in their connectivity to the traditional system. Specifically, blockchains lack the ability to settle payments in central bank money — an institutional requirement for any payment rail aiming to compete with incumbent networks on legitimacy, trust, and reliability.
 
-## **Stablecoin Market Structure is Broken**
+## Stablecoin Market Structure is Broken
 
 Official payment networks settle in central bank money because central bank money provides transaction finality, safety, and systemic stability. As a direct liability of the central bank, central bank money is considered the lowest risk form of money and eliminates the counterparty risks associated with privately-issued forms of money such as stablecoins and commercial bank deposits that carry inherent credit risk.
 
@@ -33,7 +33,7 @@ Imagine you’re a customer of Bank of America and someone from the fictitious F
 
 However, this is exactly how the stablecoin market works today. When someone sends you a stablecoin, you’re forced to accept that stablecoin, even if you don’t know or trust the issuer. Just as consumers wouldn’t feel comfortable accepting liabilities from an unfamiliar bank (i.e. The Fourth Bank of Kentucky), consumers should not feel comfortable accepting a stablecoin from an unfamiliar issuer. To gain legitimacy as a payment rail, stablecoins must evolve towards a model that respects consumer preferences across different issuers through the introduction of a settlement mechanism for inter-stablecoin payments.
 
-## **Connecting Stablecoins to the Traditional System**
+## Connecting Stablecoins to the Traditional System
 
 In order for stablecoins to move towards a model that respects consumer preferences for different issuers, there needs to exist an inter-stablecoin settlement infrastructure to orchestrate and settle obligations across stablecoin issuers. This financial market infrastructure would in turn help consumers only accept stablecoins issued by institutions they know and trust and transition stablecoin payments from a real-time shift in liabilities to a real-time settlement system. Real-time stablecoin settlement, however, is only achievable in practice once the stablecoin industry agrees upon a standard settlement instrument that can safely and securely settle obligations across issuers. But one problem remains, how do we achieve stablecoin payment settlement finality without access to central bank money?
 
@@ -51,7 +51,7 @@ While tokenized MMFs do not offer the same safety, soundness, and counterparty r
 
 In the meanwhile, asset managers, through the issuance of tokenized MMFs, have a once in a generation opportunity at disintermediating banks by collectively becoming the access point by which the regulated USD-denominated stablecoin economy accesses the U.S. payments system. However, because money is a social invention, it will take collective human agreement and belief that tokenized MMFs are a suitable settlement instrument alternative to central bank money for this bold vision to play out.
 
-## **Conclusion**
+## Conclusion
 
 Although robust regulatory safeguards, such as strict liquidity requirements, diversification mandates, and stress testing, are already in place to prevent MMFs from breaking the buck, their adoption as tokenized payment settlement instruments faces one significant barrier — the lack of deposit-like insurance or protection mechanisms. Unlike bank deposits, which benefit from FDIC insurance, MMF investors bear credit and market risks, creating uncertainty in settlement finality. This lack of absolute protection reduces consumer and institutional confidence, limiting MMFs’ viability as a universally trusted settlement instrument.
 

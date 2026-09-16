@@ -3,7 +3,7 @@ layout: "post"
 title: "The Great Token Restructuring"
 categories: "writing"
 ---
-## **Intro**
+## Intro
 
 My friend Noah Goldberg recently wrote a blog called *[A Letter to Private Market Token Participants](https://x.com/TraderNoah/status/1917627472608387370)* where he eloquently articulates the structural brokenness of the liquid token market due to private market participants funding and bringing ‘soulless token machines’ to market that lack sustainable economic value. Noah rightfully calls out the need for a token market restructuring to restore trust, confidence, and value — whether it occurs voluntarily or by force.
 
@@ -11,13 +11,13 @@ While it would be great if private market participants self-organize and commit 
 
 Although a regulatory induced token restructuring would likely cause short-term value destruction, wiping out tokens that choose to not comply with SEC requirements (which I assume would be most of them), the regulatory transition would be long-term value accretive by laying a critical trust and safety net to support the token market’s future growth and institutionalization.
 
-## **The Token Market Today**
+## The Token Market Today
 
 Today, the liquid token market primarily consists of valueless, speculative commodities — primarily in the form of “useless” governance or utility tokens that grant token holders no investor protections or rights to future cash flow. Token projects weaponize decentralization as a means to evade registration with the SEC. The reality is that with the exception of a few truly decentralized projects — Bitcoin, Ethereum, and maybe a handful of other projects — building a valuable product or service requires work from the efforts of a centrally organized core team.
 
 In order to attract institutional capital to the token market and provide a way for liquid token investors (i.e. funds and retail) to realize profits, the token market needs to shift away from valueless, speculative digital commodities towards valuable, tokenized equity. Similar to how the Securities Exchange Act of 1934 restructured the U.S. equities market by establishing the Securities Exchange Commission (“SEC”) and raising the bar for public market access, the “SEC moment” for the token market could help accelerate the transition away from speculation towards value and create the foundation for long-term trust, safety, and confidence.
 
-## **Token Market Parallels to Pre-SEC Market**
+## Token Market Parallels to Pre-SEC Market
 
 The token market [today](https://www.web3isgoinggreat.com/) looks no different than the U.S. equities market pre-establishment of the SEC.
 
@@ -33,7 +33,7 @@ Although the establishment of the SEC initially introduced friction through new 
 
 We are still in the “pre-SEC” era for the liquid token market, a market rife with fraud, market manipulation, lack of regulation, and opacity — similar to the state of the U.S. securities market pre-SEC. With the crypto market structure bill [slated](https://www.coindesk.com/consensus-toronto-2025-coverage/2025/05/14/trump-still-on-track-to-sign-crypto-legislation-by-august-white-house-s-bo-hines-says) to be passed into law by August 2025 (hopefully), the token market’s “SEC moment” could happen sooner than we think.
 
-## **Conclusion**
+## Conclusion
 
 In this new “post-SEC” regime, token projects deemed non-commodities will be faced with a rude awakening — register with the SEC or delist. Similar to how most public companies chose to delist or go private after the Securities Exchange Act of 1934 went into effect, I suspect most tokens will choose to delist due to either unwillingness or ill-preparedness to comply with stringent SEC compliance and reporting requirements.
 

@@ -3,7 +3,7 @@ layout: "post"
 title: "Unbundling Banking"
 categories: "writing"
 ---
-## **Intro**
+## Intro
 
 On October 21st, Federal Reserve Governor Christopher Waller [outlined his vision](https://www.federalreserve.gov/newsevents/speech/waller20251021a.htm) for a Federal Reserve payment account that would give nonbank or “[narrow bank](https://www.americanbanker.com/opinion/stablecoin-regulation-will-drive-a-return-to-narrow-banking)” payment institutions (”NBPIs”) direct access to Federal Reserve payment services (i.e. Fedwire, FedNow, etc.). This is a big deal because, to date, banks have a monopoly over payments in the US as the only institutions with direct access to Federal Reserve payment rails. **Granting NBPIs with direct access to Federal Reserve payment services enables nonbanks to compete head-to-head with banks on payments and money for the first time, potentially eroding banks’ monopoly on core payments infrastructure**.
 
@@ -11,7 +11,7 @@ Recent headlines suggest growing optimism that Governor Waller’s vision for a 
 
 Together, these developments signal a broader shift in the regulatory and technological landscape. As the line between fintechs, stablecoin issuers, trust banks, and traditional depository institutions continues to blur, the foundation of what it means to “be a bank” is being quietly redefined.
 
-## **The Evolution of Banking**
+## The Evolution of Banking
 
 At their core, banks are responsible for three core functions — (i) money (deposit taking), (ii) payments, and (iii) lending. However, a convergence of secular trends is now challenging these three pillars and driving their unbundling.
 
@@ -21,7 +21,7 @@ At their core, banks are responsible for three core functions — (i) money (dep
 
 In the past, banks made loans and processed payments. Today, banks still act as payment settlement agents, but they increasingly outsource lending. Tomorrow, with the rise of Fed payment accounts and stablecoins, payment processing and settlement could move entirely to NBPIs. And in that world — where banks neither settle payments nor finance loans — **what does it even mean to be a bank?**
 
-## **Everyone Gets Yield**
+## Everyone Gets Yield
 
 Over the past three years, noninterest-bearing deposit liabilities at US banks have decreased ~30%, while over the same time period, interest-bearing deposits have continued to grow. If US banks lose their monopoly over payments with the introduction of Fed payment accounts and proliferation of stablecoins, competition for deposits will increase and banks will [no longer](https://x.com/patrickc/status/1974164842862031282) be able to get away with paying zero interest on demand deposits.
 
@@ -43,13 +43,11 @@ During the 1920s and early 1930s, due to fragmentation and enhanced competition 
 
 While a majority of banks’ funding comes from interest-bearing deposits (time deposits, money market deposit accounts, and savings deposits), transactional demand deposits still account for ~35% of US banks’ total deposit base, a non-trivial amount. Banks that rely most heavily on demand deposits as a source of funding are the ones that will get hit the hardest by NBPI deposit flight. These banks can respond to deposit flight by (i) increasing demand deposit rates, (ii) focusing on non-transactional deposits such as savings and time deposits, or (iii) innovating on product to compete directly with NBPIs.
 
-
 ![Interest-bearing deposits chart from FRED](/assets/images/deposit-mix.png)
-
 
 Looking forward, in a future where banks neither settle payments nor make loans, what’s left for banks is not necessarily what they do, but what they are — institutions of trust, regulation, and orchestrators of payments and lending.
 
-## **The Future of Banking**
+## The Future of Banking
 
 While the GENIUS Act makes the *issuance* of stablecoins safer by ensuring GENIUS-compliant stablecoins are issued under a standardized framework with federal or state regulatory oversight, the GENIUS Act does NOT protect consumers from depositing GENIUS-compliant stablecoins into platforms, protocols, or vaults that compromise counterparty risk or lack deposit insurance.
 
