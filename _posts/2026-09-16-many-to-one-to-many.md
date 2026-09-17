@@ -29,7 +29,7 @@ Shortly thereafter, other banks caught wind of Bank America’s growing credit c
 
 Unlike the original closed-loop BankAmericard system, in which both the issuer and acquirer were Bank of America, the BankAmericard service organization transformed the network into an open-loop system in which the issuing and acquiring banks could be separate institutions. Bank Americard’s program, however, was built under the assumption that Bank of America would be on both sides of the transaction and didn’t solve for the operational complexities of coordinating across many issuing and acquiring banks.
 
-In 1970, in an effort led by Dee Hock, who would then go on to become Visa's founder, Bank of America gave up direct control of Bank Americard to an association of banks to build an open-loop network that could better scale and coordinate credit card transactions across many issuing and acquiring banks. That organization became Visa.
+In 1970, in an effort led by Dee Hock, who would then go on to become Visa's founder, Bank of America gave up direct control of Bank Americard to an association of banks to build an open-loop network that could better scale and more efficiently clear credit card transactions across many issuing and acquiring banks. That organization became Visa.
 
 ## Looking Forward
 
