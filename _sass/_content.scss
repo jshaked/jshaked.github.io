@@ -162,6 +162,34 @@ sup {
   line-height: 1;
 }
 
+/**
+* Footnotes
+*/
+.footnotes {
+  margin-top: 2 * $spacing-unit;
+  padding-top: $spacing-unit;
+  border-top: 1px solid var(--hr-color);
+  font-size: $small-font-size;
+  color: var(--text-color);
+
+  ol {
+    margin-left: 1.25 * $spacing-unit;
+  }
+
+  li {
+    margin-bottom: 0.5 * $spacing-unit;
+  }
+
+  p {
+    display: inline;
+    margin-bottom: 0;
+  }
+
+  a.reversefootnote {
+    margin-left: 0.25em;
+  }
+}
+
 .wide {
   margin-right: -3 * $spacing-unit;
   margin-left: -3 * $spacing-unit;
