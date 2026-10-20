@@ -3,14 +3,6 @@ layout: "post"
 title: "Stablecoin Market Structure"
 categories: "writing"
 ---
-## Intro
-
-Money has always been a social invention, shaped more by collective human agreement than by regulatory or religious decree. From ancient seashells to cigarettes in prison, “money” is whatever a community is willing to accept in exchange for goods and services. Because money derives its value from collective human agreement, and people’s beliefs, preferences, and behaviors evolve, money and payments too must adapt and transform to reflect shifting societal dynamics and technological innovations.
-
-Although real-time payments (”RTP”) networks such as FedNow in the U.S., UPI in India, PIX in Brazil, and FPS in the UK offer instant, real-time settlement, they are exclusive to domestic use and are only designed to support each country’s respective fiat currency. As a result, other assets such as securities, bonds, and alternatives, and countries without RTP networks, must rely on fragmented and inefficient clearing and settlement infrastructure that typically requires days, rather than seconds, to settle transactions.
-
-By connecting all assets to an instant, open, global payment network, tokenization holds the potential to open up access to previously gate kept payment infrastructure and offers a generational opportunity for forward-thinking asset managers to disintermediate banks’ privileged access to official payment networks.
-
 ## Money Today
 
 Ultimately, people want money that is interest-bearing, safe, and sound. While bank deposits offer safety and soundness, protected by institutional guarantees such as deposit insurance that insure deposits up to $250k, they offer little to no yield. As of April 2025, the national average interest rate for checking accounts in the U.S. was ~0.07%. Comparatively, the federal funds rate currently sits at ~4.3%. With current inflation rates at ~2.4%, bank depositors earn a negative real return on their balances. While money market funds offer interest in-line with the federal funds rate, they are not fit for payments because they are uninsured securities that lack connectivity to a real-time payment system.
